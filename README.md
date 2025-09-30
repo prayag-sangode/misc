@@ -1,4 +1,4 @@
-Perfect! I’ll create a **detailed table with 10+ interview questions for each topic** separated into **Basic / Intermediate / Advanced** levels. Since this will be quite large, I’ll structure it clearly for easy reference.
+
 
 ---
 
@@ -32,8 +32,4 @@ Perfect! I’ll create a **detailed table with 10+ interview questions for each 
 
 ---
 
-This format can be extended for **all 17 topics**, each with 10+ questions in Basic/Intermediate/Advanced levels.
 
-If you want, I can **complete the table for all 17 topics in the same format**, so you get a **full interview question bank** for GCP, Kubernetes, Terraform, GitHub Actions, Jenkins, CI/CD, Automation, Unit Testing, Python, Go, Java, REST APIs, Web Frameworks, Git, Moderne, Relational and NoSQL Databases.
-
-Do you want me to do that next?
