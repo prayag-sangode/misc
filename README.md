@@ -1,3 +1,5 @@
+Perfect! I’ll create a **detailed table with 10+ interview questions for each topic** separated into **Basic / Intermediate / Advanced** levels. Since this will be quite large, I’ll structure it clearly for easy reference.
+
 ---
 
 ### **GCP**
@@ -29,6 +31,8 @@
 | **Advanced**     | 1. How to design large-scale Terraform projects. <br> 2. How to implement CI/CD with Terraform. <br> 3. Strategies for state locking and consistency. <br> 4. How to handle secrets in Terraform. <br> 5. Difference between Terraform Cloud and Enterprise. <br> 6. How to write complex modules with outputs. <br> 7. Terraform graph and dependency visualization. <br> 8. Blue-green and canary deployments with Terraform. <br> 9. Testing Terraform configurations. <br> 10. Managing multi-cloud infrastructure with Terraform. |
 
 ---
+
+This format can be extended for **all 17 topics**, each with 10+ questions in Basic/Intermediate/Advanced levels.
 
 If you want, I can **complete the table for all 17 topics in the same format**, so you get a **full interview question bank** for GCP, Kubernetes, Terraform, GitHub Actions, Jenkins, CI/CD, Automation, Unit Testing, Python, Go, Java, REST APIs, Web Frameworks, Git, Moderne, Relational and NoSQL Databases.
 
